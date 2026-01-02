@@ -1,0 +1,7 @@
+phidata
+streamlit
+openai
+duckduckgo-search
+requests
+python-dotenv
+packaging
